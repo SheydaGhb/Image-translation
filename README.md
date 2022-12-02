@@ -18,7 +18,7 @@ Matplotlib 3.6.2 <br />
 Pillow 9.3.0 <br />
 
 ## For testing a single image 
-Download the model from [here](https://tuni-my.sharepoint.com/:u:/g/personal/sheyda_ghanbaralizadehbahnemiri_tuni_fi/EefhTnBnXmlPgWGjU9seFfkBArrboa-Zocw9v7xqPnRsAQ?e=WNf0AO). Model's name is mymodel_version3 <br />
+Download the model from [here](https://tuni-my.sharepoint.com/:u:/g/personal/sheyda_ghanbaralizadehbahnemiri_tuni_fi/EefhTnBnXmlPgWGjU9seFfkBArrboa-Zocw9v7xqPnRsAQ?e=WNf0AO). Model's name is ``` mymodel_version3.pth ``` <br />
 Run  ``` test_oneimage.py ``` on a test image<br />
 
 Dataset for training anf testing is provided by [Visidon](https://www.visidon.fi/)
