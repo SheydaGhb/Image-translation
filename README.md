@@ -2,7 +2,7 @@
 ## Translation of an image to a target image.
 
 
-I designed a model that performs image translation from the input images to the target images. An example of the input image and its target image is shown below
+I designed a model in Pytorch that performs image translation from the input images to the target images. An example of the input image and its target image is shown below
 
 <img width="459" alt="image" src="https://user-images.githubusercontent.com/31028574/205402113-856844ba-d393-46a2-82a4-6f7ad8c6bf9e.png">
 
