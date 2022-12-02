@@ -4,7 +4,7 @@
 
 I designed a model that performs image translation from the input images to the target images. An example of the input image and its target image is shown below
 
-<img width="315" alt="image" src="https://user-images.githubusercontent.com/31028574/205399535-8c5e6e2e-a315-4d8d-a384-1c3038b1921b.png">
+<img width="459" alt="image" src="https://user-images.githubusercontent.com/31028574/205402113-856844ba-d393-46a2-82a4-6f7ad8c6bf9e.png">
 
 ## For training : 
 Run  ``` training.py ``` script. <br /> 
