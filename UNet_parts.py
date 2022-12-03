@@ -1,5 +1,5 @@
 """
-Two main building block of UNet, Down and Up classes are designed in this script
+Two main building blocks of UNet, Down and Up classes are designed in this script
 """
 
 import torch
