@@ -7,7 +7,6 @@ from torch.optim import Adam
 from torch.nn import MSELoss
 from pathlib import Path
 import time
-start_time = time.time()
 
 def main():
     print("Running on Cuda:" , torch.cuda.is_available())  ## see if code is running on cuda
