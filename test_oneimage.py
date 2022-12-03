@@ -41,11 +41,3 @@ axarr[0].set_title('original image')
 axarr[1].set_title('Target image')
 axarr[2].set_title('Output of the model')
 plt.show()
-
-
-
-
-
-
-
-
