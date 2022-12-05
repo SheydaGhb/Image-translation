@@ -7,7 +7,7 @@ I designed a model in Pytorch that performs image translation from the input ima
 <img width="459" alt="image" src="https://user-images.githubusercontent.com/31028574/205402113-856844ba-d393-46a2-82a4-6f7ad8c6bf9e.png">
 
 ## For training : 
-Run  ``` training.py ``` script. <br /> 
+Run  ``` train.py ``` script. <br /> 
 Dependencies are : <br />
 Python 3.10 <br />
 Numpy 1.23.5 <br />
